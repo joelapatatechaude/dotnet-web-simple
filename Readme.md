@@ -11,3 +11,4 @@ The app will print `Hello World!`
 # Contribute
 - Start your devspace with:
   - vs-code [![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.apps.laptop1-03.cszevaco.com/#https://github.com/joelapatatechaude/dotnet-web-simple)
+  - vs-code [![Contribute]([https://www.eclipse.org/che/contribute.svg](https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg))](https://devspaces.apps.laptop1-03.cszevaco.com/#https://github.com/joelapatatechaude/dotnet-web-simple)
